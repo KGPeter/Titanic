@@ -67,4 +67,4 @@ library(plotrix)
 
 pie3D(x, labels = pie_percent,
       explode = 0.1, 
-      main = "3D pie-chart for literacy rate")
+      main = "3D pie-chart")
